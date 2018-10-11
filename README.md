@@ -13,7 +13,7 @@ manipulate the DOM in repeatable, reusable chunks, keeping the same
 structure but filling it in with new data.
 
 Think about a bookstore. That's a place where you can go to buy books.
-Like, physically. Like a grocery store but there's a coffee shop inside
+Like, physically. Like a groceryy store but there's a coffee shop inside
 and books instead of food.
 
 Okay. So the basic unit of display in a bookstore is a bay of shelves.
